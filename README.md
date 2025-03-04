@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS, js, python, C#, php, and all frameworks associated with them
 - 💞️ I’m looking to collaborate on any project that might interest me
 - 📫 How to reach me... email: arorasolofo@gmail.com
-- 😄 Pronouns: ...she/her
+- 😄 Pronouns: ...???you souldn't care
 
 <!---
 SabertoothN1/SabertoothN1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
